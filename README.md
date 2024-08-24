@@ -1,5 +1,22 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Developing eco-friendly websites through Oasis of Change, my nonprofit dedicated to sustainable digital solutions and environmental advocacy.<br><br>👯 I’m looking to collaborate on<br>Projects focused on sustainable technology and eco-conscious web development. Let’s create a greener internet together!<br><br>🤝 I’m looking for help with<br>Expanding Oasis of Change partnerships, especially with organizations that align with our mission to combat climate change and reduce plastic waste.<br><br>🌱 I’m currently learning<br>Advanced web development techniques and strategies to further reduce the carbon footprint of websites, including green hosting and efficient coding practices.<br><br>💬 Ask me about<br>My journey from running a handmade card business at 8 to founding Oasis of Change, and how I’m blending technology with sustainability.<br><br>⚡ Fun fact<br>For every website we create at Oasis of Change, a portion of the proceeds goes to planting trees and supporting clean-up projects worldwide! 🌍
+🔭 **What I’m Working On:**  
+Developing eco-friendly websites through my nonprofit focused on sustainable digital solutions.
+
+👯 **Looking to Collaborate:**  
+On projects around green tech and sustainable web development.
+
+🤝 **Seeking Help With:**  
+Expanding partnerships, especially with organizations aligned with our mission to fight climate change.
+
+🌱 **Currently Learning:**  
+Advanced web development to reduce the carbon footprint of websites.
+
+💬 **Ask Me About:**  
+Starting my coding journey at 11 and founding a nonprofit blending tech with sustainability.
+
+⚡ **Fun Fact:**  
+Every website we create helps plant trees and support global clean-up efforts! 🌍
+
 
 
 ## 🌐 Socials:
