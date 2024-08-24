@@ -3,20 +3,19 @@
 Developing eco-friendly websites through my nonprofit focused on sustainable digital solutions.
 
 👯 **Looking to Collaborate:**  
-On projects around green tech and sustainable web development.
+On projects around green tech and energy-efficient web development.
 
 🤝 **Seeking Help With:**  
-Expanding partnerships, especially with organizations aligned with our mission to fight climate change.
+Expanding partnerships with organizations aligned with our mission to promote energy efficiency and reduce waste.
 
 🌱 **Currently Learning:**  
-Advanced web development to reduce the carbon footprint of websites.
+Advanced web development to optimize energy efficiency in websites.
 
 💬 **Ask Me About:**  
 Starting my coding journey at 11 and founding a nonprofit blending tech with sustainability.
 
 ⚡ **Fun Fact:**  
 Every website we create helps plant trees and support global clean-up efforts! 🌍
-
 
 
 ## 🌐 Socials:
