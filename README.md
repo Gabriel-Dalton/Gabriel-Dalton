@@ -6,7 +6,7 @@ Advanced web development to optimize energy efficiency in websites.
 💬 **Ask Me About:**  
 Starting my coding at 11 (self-taught)
 
-<a href="https://gitroll.io/profile/uGp7bQcRGB4eaukwT3zyRLbMsdFy1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGp7bQcRGB4eaukwT3zyRLbMsdFy1?theme=dark" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/uGp7bQcRGB4eaukwT3zyRLbMsdFy1" target="_blank" height="250px"><img src="https://gitroll.io/api/badges/profiles/v1/uGp7bQcRGB4eaukwT3zyRLbMsdFy1?theme=dark" style="max-width: 100%;" alt="GitRoll Profile Badge"/></a>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrieldalton) 
