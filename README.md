@@ -1,6 +1,6 @@
-About Me:
+# About Me:
 
-Self-taught myself coding when i was 11. 
+Self-taught myself coding when I was 11. 
 
 <a href="https://gitroll.io/profile/uGp7bQcRGB4eaukwT3zyRLbMsdFy1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGp7bQcRGB4eaukwT3zyRLbMsdFy1?theme=dark" height="250px" style="max-width: 100%;" alt="GitRoll Profile Badge"/></a>
 
