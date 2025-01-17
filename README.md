@@ -1,19 +1,12 @@
 # 💫 About Me:
-🔭 **What I’m Working On:**  
-Developing eco-friendly websites through my nonprofit focused on sustainable digital solutions.
-
-👯 **Looking to Collaborate:**  
-On projects around green tech and energy-efficient web development.
-
-🤝 **Seeking Help With:**  
-Expanding partnerships with organizations aligned with our mission to promote energy efficiency and reduce waste.
 
 🌱 **Currently Learning:**  
 Advanced web development to optimize energy efficiency in websites.
 
 💬 **Ask Me About:**  
-Starting my coding journey at 11 and founding a nonprofit blending tech with sustainability.
+Starting my coding at 11 (self-taught)
 
+<a href="https://gitroll.io/profile/uGp7bQcRGB4eaukwT3zyRLbMsdFy1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGp7bQcRGB4eaukwT3zyRLbMsdFy1?theme=dark" alt="GitRoll Profile Badge"/></a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/photoswithgabe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrieldalton) 
