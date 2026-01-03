@@ -2,8 +2,6 @@
 
 Self-taught myself coding when I was 11. 
 
-<a href="https://gitroll.io/profile/uGp7bQcRGB4eaukwT3zyRLbMsdFy1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uGp7bQcRGB4eaukwT3zyRLbMsdFy1?theme=dark" height="250px" style="max-width: 100%;" alt="GitRoll Profile Badge"/></a>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrieldalton) 
 
