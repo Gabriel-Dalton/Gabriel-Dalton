@@ -1,6 +1,6 @@
 # About Me:
 
-Self-taught myself coding when I was 11. 
+I taught myself coding when I was 10 years old. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrieldalton) 
