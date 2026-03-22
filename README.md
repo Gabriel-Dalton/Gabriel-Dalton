@@ -1,6 +1,6 @@
 # About Me:
 
-I taught myself to code at 10 years old. 
+I taught myself to code at 10 years old. I'm a TEDx speaker on digital sustainability and AI literacy. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrieldalton) 
