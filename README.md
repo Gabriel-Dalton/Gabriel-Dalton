@@ -73,16 +73,6 @@ I taught myself to code at the age of 10. I've spoken at TEDx about digital sust
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## Also in the toolkit
-
-A fair amount of what I do has no logo worth putting in a row, and some of it is practice rather than software.
-
-**Platforms and admin.** AWS and DashNex for client hosting. Google Workspace and Microsoft 365 administration, including the data privacy side of both. Formaloo and ClickFunnels for forms and funnels, Canva for quick brand collateral.
-
-**Measurement.** GTmetrix for performance profiling, and Ecograder, Website Carbon, Beacon and betterweb.eco for carbon and page weight reporting.
-
-**Practice.** UI and UX design. Front end performance work across Oasis of Change infrastructure. Domain and DNS management, together with the security that belongs beside it: DNS hardening, SSL and TLS, and web application firewall rules on Cloudflare. Accessibility to WCAG 2.1 and 2.2, which is the day job at AccessibilityChecker.org.
-
 ## Elsewhere
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/gabrieldalton)
