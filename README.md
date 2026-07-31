@@ -8,17 +8,6 @@ I taught myself to code at the age of 10. I've spoken at TEDx about digital sust
 - AI development at [Plastic Bank](https://plasticbank.com)
 - Accessibility at [AccessibilityChecker.org](https://accessibilitychecker.org)
 
-## Selected work
-
-| Project | What it does |
-| --- | --- |
-| [cupel](https://github.com/Gabriel-Dalton/cupel) | Makes images smaller without making them worse. Allocates a byte budget across a page and writes a receipt you can check. [Live](https://cupel.vercel.app) |
-| [AI-Code-Detector](https://github.com/Gabriel-Dalton/AI-Code-Detector) | Estimates how likely a snippet of code was written by a model. [Live](https://ai-code-detector-self.vercel.app) |
-| [Situate-Vancouver](https://github.com/Gabriel-Dalton/Situate-Vancouver) | City intelligence for Metro Vancouver, built in Python. [Live](http://situatevancouver.com) |
-| [digital-accessibility-claude-skill](https://github.com/Gabriel-Dalton/digital-accessibility-claude-skill) | Audits and documents accessible interfaces against WCAG 2.2, ADA, Section 508, AODA, ACA, and EN 301 549. |
-| [digital-sustainability-claude-skill](https://github.com/Gabriel-Dalton/digital-sustainability-claude-skill) | Audits low carbon products using the Web Sustainability Guidelines, Green Software Foundation principles, and SCI. |
-| [claude-statusline-tokens](https://github.com/Gabriel-Dalton/claude-statusline-tokens) | Status line for Claude Code on Windows. Token totals, cost, and rate limit countdowns in one PowerShell file, no dependencies. [Live](https://claude-statusline-tokens.vercel.app) |
-
 ## Stack
 
 **Languages**
