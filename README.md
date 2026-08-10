@@ -64,8 +64,3 @@ I taught myself to code at the age of 10. I've spoken at TEDx about digital sust
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-## Elsewhere
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/gabrieldalton)
-[![Website](https://img.shields.io/badge/gabrieldalton.com-111111?style=for-the-badge)](https://gabrieldalton.com)
