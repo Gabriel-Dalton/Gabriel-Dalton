@@ -7,6 +7,7 @@ I taught myself to code at the age of 10. I've spoken at TEDx about digital sust
 - President at [Oasis of Change](https://oasisofchange.org)
 - AI development at [Plastic Bank](https://plasticbank.com)
 - Accessibility at [AccessibilityChecker.org](https://accessibilitychecker.org)
+- Contributor at @bcgov, improving Wildfire Prediction Models
 
 ## Stack
 
