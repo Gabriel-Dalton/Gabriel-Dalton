@@ -5,7 +5,6 @@ I build for accessibility and digital sustainability on the web.
 I taught myself to code at the age of 10. I've spoken at TEDx about digital sustainability and AI literacy.
 
 - President at [Oasis of Change](https://oasisofchange.org)
-- AI development at [Plastic Bank](https://plasticbank.com)
 - Accessibility at [AccessibilityChecker.org](https://accessibilitychecker.org)
 - Open-source contributor at [@bcgov](https://github.com/bcgov), supporting the Wildfire Predictive Services
 
