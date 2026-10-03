@@ -46,6 +46,7 @@ I taught myself to code at the age of 10. I've spoken at TEDx about digital sust
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-5786FE?style=for-the-badge&logo=deepseek&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Intercom Fin](https://img.shields.io/badge/Intercom%20Fin-6AFDEF?style=for-the-badge&logo=intercom&logoColor=black)
 ![Model Context Protocol](https://img.shields.io/badge/Model%20Context%20Protocol-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
 
 **Hosting, DNS and infrastructure**
@@ -63,6 +64,7 @@ I taught myself to code at the age of 10. I've spoken at TEDx about digital sust
 ![Bing Webmaster Tools](https://img.shields.io/badge/Bing%20Webmaster%20Tools-008373?style=for-the-badge)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
+![axe-core](https://img.shields.io/badge/axe--core-0077C8?style=for-the-badge)
 ![PostHog](https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white)
 
 **Design**
@@ -74,3 +76,6 @@ I taught myself to code at the age of 10. I've spoken at TEDx about digital sust
 
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
