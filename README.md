@@ -79,3 +79,4 @@ I taught myself to code at the age of 10. I've spoken at TEDx about digital sust
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Trunk-Based Development](https://img.shields.io/badge/Trunk--Based%20Development-2B3137?style=for-the-badge)
