@@ -61,7 +61,7 @@ I taught myself to code at the age of 10. I've spoken at TEDx about digital sust
 
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Google Search Console](https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=for-the-badge)
-![Bing Webmaster Tools](https://img.shields.io/badge/Bing%20Webmaster%20Tools-008373?style=for-the-badge)
+![Bing Webmaster Tools REST API](https://img.shields.io/badge/Bing%20Webmaster%20Tools%20REST%20API-008373?style=for-the-badge)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
 ![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
 ![axe-core](https://img.shields.io/badge/axe--core-0077C8?style=for-the-badge)
